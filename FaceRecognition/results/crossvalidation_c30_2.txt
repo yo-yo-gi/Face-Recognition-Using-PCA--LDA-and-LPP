@@ -1,0 +1,25 @@
+
+ Grid search Cross validation results
+ componentsRetained = 30
+ trainingSet = 280 pictures
+ testingSet = 120 pictures
+ ---------------------------------------
+
+ PCA  results
+ ------------------
+ knn_value - 2 , accuracy - 0.975
+ knn_value - 3 , accuracy - 0.925
+ knn_value - 4 , accuracy - 0.925
+ ------------------
+ LDA  results
+ ------------------
+ knn_value - 2 , accuracy - 0.9416666666666667
+ knn_value - 3 , accuracy - 0.925
+ knn_value - 4 , accuracy - 0.95
+ ------------------
+ LPP  results
+ ------------------
+ knn_value - 2 , accuracy - 1.0
+ knn_value - 3 , accuracy - 0.925
+ knn_value - 4 , accuracy - 0.95
+ ------------------
